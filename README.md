@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on tickets for Northeastern Electric Racing and NURobotics (see @echan-108)<br>I'm currently learning OCaml<br>Ask me about dotfiles, embedded systems, or anything backend<br>Fun fact: I have two GitHub accounts because my robots and race cars need their own home<br>I'm looking to collaborate on embedded systems projects and backend tools
+🔭 I'm currently working on tickets for Northeastern Electric Racing and NURobotics (see @echan-108)<br>🌱 I'm currently learning OCaml and R for my current coursework <br>💬Ask me about dotfiles, embedded systems, or anything backend<br>⚡ Fun fact: I have two GitHub accounts because my robots and race cars need their own home<br>🤝 I'm looking to collaborate on embedded systems projects and backend tools
 
 
 ## 🌐 Socials:
